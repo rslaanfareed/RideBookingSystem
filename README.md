@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rslaanfareed/RideBookingSystem/main/ride.gif" width="600"/>
 </p>
+
 # RideFlow - Smart Ride Booking System
 
 A Java Swing ride-booking application that simulates a modern ride-hailing service while demonstrating layered architecture and classic design patterns.
 
-https://raw.githubusercontent.com/rslaanfareed/RideBookingSystem/main/ride.gif
 
 ## Features
 
