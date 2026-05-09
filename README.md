@@ -2,7 +2,7 @@
 
 A Java Swing ride-booking application that simulates a modern ride-hailing service while demonstrating layered architecture and classic design patterns.
 
-![](https://github.com/rslaanfareed/rslaanfareed/blob/main/ride.gif?raw=true)
+https://raw.githubusercontent.com/rslaanfareed/RideBookingSystem/main/ride.gif
 
 ## Features
 
