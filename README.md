@@ -2,6 +2,8 @@
 
 A Java Swing ride-booking application that simulates a modern ride-hailing service while demonstrating layered architecture and classic design patterns.
 
+![](https://github.com/rslaanfareed/rslaanfareed/blob/main/ride.gif?raw=true)
+
 ## Features
 
 - **Passenger Registration**: Create a passenger profile with name, email, phone, and wallet balance.
